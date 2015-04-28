@@ -1,0 +1,15 @@
+Hello
+
+I think I found a cheap solution :
+http://www.ebay.fr/itm/1PC-Ethernet-Shield-W5100-For-Arduino-Main-Board-UNO-R3-ATMega-328-1280-MEGA2560-/360773430534?pt=LH_DefaultDomain_0&hash=item53ffc5ad06
+
+This electronic board is used to communicate on the Internet and store data on micro SD card .
+programming can be done by a usb cable like Arduino Uno.
+
+And why not use a PLC system (CPL in french) to communicate easily with the router. PLC is a system which permit to use the
+electrical outlet to send internet data (around 30 euros). it has far-reaching (max 300 meters) better than wifi.
+
+I'll buy the electronic board to run some tests .
+
+Clément,
+
